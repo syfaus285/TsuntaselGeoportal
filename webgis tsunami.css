@@ -1,0 +1,44 @@
+.main{
+    background: #ffffff
+}
+
+.custom-navbar-nav .nav-item {
+    margin-right: 20px; /* Adjust the value as needed */
+}
+.custom-navbar-nav .nav-item:last-child {
+    margin-right: 0;
+}
+
+.teks
+{
+    font-size: 65px;
+    font-family: poppins;
+    font-weight: bold;
+    padding-top: 200px;
+    line-height: 70px;
+}
+.teks2
+{
+    font-size: 20px;
+    font-family: poppins;
+    font-weight: bold;
+    padding-top: 5px;
+    padding-bottom: 30px;
+    line-height: 25px;
+}
+#tentang{
+    background: linear-gradient(180deg, #104D79, #5A9AB7);}
+
+#pendidikan{
+    background: #ffffff}
+
+#statistik{
+    background: linear-gradient(135deg, #104D79, #5A9AB7);}
+
+.footer {
+    background: white;
+    color: #104D79;
+    font-family: poppins;
+    padding-top: 3px;
+    text-align: center;
+}
